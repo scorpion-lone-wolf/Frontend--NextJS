@@ -1,2 +1,3 @@
-# NextJS
-all code related to nextjs
+# Frontend
+## NextJS
+All code related to nextjs
